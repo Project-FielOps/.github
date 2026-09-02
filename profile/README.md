@@ -33,7 +33,6 @@ A solução substitui processos baseados em formulários impressos, planilhas e 
 | Integrante | GitHub |
 |---|---|
 | Giovani Miamoto | [@giovanimiamotob](https://github.com/giovanimiamotob) |
-| Glauco Todesco | [@glaucotodesco](https://github.com/glaucotodesco) |
 | Jose Eduardo de O. Jr | [@JoseEduardodeOliveiraJunior](https://github.com/JoseEduardodeOliveiraJunior) |
 | Luciano Júnior | [@lucianomenezesjr](https://github.com/lucianomenezesjr) |
 | Tobias Perassi Alquezar | [@tobiasperassi](https://github.com/tobiasperassi) |
