@@ -42,18 +42,18 @@ A solução substitui processos baseados em formulários impressos, planilhas e 
 
 ## 📂 Estrutura da organização
 
-> Preencher com os links dos repositórios do time conforme forem criados.
-
-- `fieldops-mobile` — Aplicativo mobile (Expo/React Native)
-- `fieldops-admin` — Interface administrativa web (Angular)
-- `fieldops-api` — API REST (Java/Spring Boot)
-- `fieldops-docs` — Documentação e especificação do projeto
+- [`aplicativo-mobile`](https://github.com/Project-FielOps/aplicativo-mobile) — App do técnico (Expo/React Native, offline-first com SQLite)
+- [`interface-administrativa`](https://github.com/Project-FielOps/interface-administrativa) — Painel web (Angular)
+- [`API`](https://github.com/Project-FielOps/API) — API REST (Java/Spring Boot, PostgreSQL)
+- [`Docs`](https://github.com/Project-FielOps/Docs) — Documentação, especificação, backlog e artefatos acadêmicos
 
 ---
 
 ## 🚀 Status
 
-Projeto em desenvolvimento — fase de especificação e prototipação de interface concluídas.
+MVP integrado: API e painel publicados na AWS (EC2) com deploy automático pela `main`; app mobile com execução offline,
+sincronização idempotente (`/mobile/sync`) e upload idempotente de evidências. Limitações em aberto em
+[`Docs/_KB/11-planning/known-limitations.md`](https://github.com/Project-FielOps/Docs/blob/main/_KB/11-planning/known-limitations.md).
 
 ---
 
